@@ -1,0 +1,2 @@
+# convert_pdf_to_txt
+实现了用python将pdf转换为txt的功能
